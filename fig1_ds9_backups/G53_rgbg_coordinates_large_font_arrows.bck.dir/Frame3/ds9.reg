@@ -1,0 +1,29 @@
+# Region file format: DS9 version 4.1
+global color=green dashlist=8 3 width=1 font="helvetica 10 normal roman" select=1 highlite=1 dash=0 fixed=0 edit=1 move=1 delete=1 include=1 source=1
+fk5
+line(292.6532512,18.3664434,292.3032495,17.7576691) # line=0 0 color=white width=3 font="helvetica 26 bold roman" text={Galactic plane} dash=1
+-circle(292.5103850,18.2104800,15.415") # width=3
+-circle(292.4845400,18.1577914,12.500") # width=3 font="helvetica 14 bold roman"
+-circle(292.5084025,18.2182264,7.234") # width=3
+-circle(292.4588221,18.2234422,9.950") # width=3 font="helvetica 14 bold roman"
+-circle(292.4484804,18.2227706,9.950") # width=3 font="helvetica 14 bold roman"
+-circle(292.4413008,18.2131567,9.950") # width=3 font="helvetica 14 bold roman"
+-circle(292.4840646,18.1716119,9.950") # width=3 font="helvetica 14 bold roman"
+-circle(292.4760688,18.1733169,9.950") # width=3 font="helvetica 14 bold roman"
+-circle(292.4545333,18.1528492,13.944") # width=3 font="helvetica 14 bold roman"
+-circle(292.5029604,18.2014311,7.234") # width=3
+-circle(292.4215638,18.1988625,9.950") # width=3 font="helvetica 14 bold roman"
+-circle(292.4274567,18.1484083,9.950") # width=3 font="helvetica 14 bold roman"
+-box(292.4880008,18.1735609,35.310",418.901",357.5) # color=magenta width=2 font="helvetica 16 bold roman"
+polygon(292.4530087,18.0930922,292.4278575,18.1072983,292.3766550,18.1068447,292.3778104,18.0713142,292.4600346,18.0739281) # color=red width=3 font="helvetica 20 normal roman" background
+panda(292.4797446,18.1734025,170.00009,290.00009,1,65.000",210.000",1) # color=cyan width=3 font="helvetica 14 bold roman"
+panda(292.4797446,18.1734025,310.66371,420.00009,1,65.000",210.000",1) # color=yellow width=3 font="helvetica 14 bold roman"
+panda(292.4797446,18.1734025,60.000093,150.00009,1,65.000",210.000",1) # width=3 font="helvetica 14 bold roman"
+# text(292.3196525,18.1372491) textangle=298.66378 textrotate=0 color=yellow width=2 font="helvetica 30 bold roman" text={Region 1}
+# text(292.3299165,18.1319281) textangle=298.66378 textrotate=0 width=2 font="helvetica 30 bold roman" text={Region 2}
+# text(292.3401799,18.1266066) textangle=298.66378 textrotate=0 color=cyan width=2 font="helvetica 30 bold roman" text={Region 3}
+# text(292.3543024,18.1280065) textangle=298.66378 textrotate=0 color=red width=2 font="helvetica 30 bold roman" text={Background}
+# vector(292.3680229,18.1730083,54.000",90) vector=1 color=white width=4 font="helvetica 30 bold roman" tag={Group 1}
+# vector(292.3680229,18.1730083,54.000",1.8310362e-13) vector=1 color=white width=4 font="helvetica 30 bold roman" tag={Group 1}
+# text(292.3464725,18.1748510) textangle=298.66378 color=white width=3 font="helvetica 30 bold roman" text={W} tag={Group 1}
+# text(292.3694517,18.1929499) textangle=298.66378 color=white width=3 font="helvetica 30 bold roman" text={N}

@@ -1,0 +1,8 @@
+# Region file format: DS9 version 4.1
+global color=green dashlist=8 3 width=1 font="helvetica 10 normal roman" select=1 highlite=1 dash=0 fixed=0 edit=1 move=1 delete=1 include=1 source=1
+fk5
+line(292.6532512,18.3664434,292.3032495,17.7576691) # line=0 0 color=white width=3 font="helvetica 26 bold roman" text={Galactic plane} dash=1
+# text(292.3172536,18.1192954) textangle=298.66378 color=white width=3 font="helvetica 30 bold roman" text={W} tag={Group 1}
+# vector(292.3400723,18.1178120,54.000",4.6496051e-07) vector=1 color=white width=4 font="helvetica 30 bold roman" tag={Group 1}
+# vector(292.3400723,18.1178120,54.000",90.000003) vector=1 color=white width=4 font="helvetica 30 bold roman" tag={Group 1}
+# text(292.3406353,18.1399813) textangle=298.66378 color=white width=3 font="helvetica 30 bold roman" text={N}
