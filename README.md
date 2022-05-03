@@ -33,9 +33,9 @@ Instruction for the order to run them in is provided in bash file “./0_RUN_ALL
 - 4_image_generation - generates images of individla observations, can be adjusted for energy range
 - setup_xx - contains settings for 2_extraction scripts, pairing with correct extraction script is necessary (see 0_RUN_ALL.sh)
 
-## Figures
+## Jupyter notebooks
 
-All figures of the paper are provided in pdf format under "./figures/". They are an output of Jupyter lab notebooks:
+All figures of the paper are provided in pdf format in folder "./figures/". They are an output of Jupyter notebooks:
 
 “./zenodo_g53_tables_figures.ipynb” 
 
