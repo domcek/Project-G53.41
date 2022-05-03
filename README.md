@@ -35,4 +35,10 @@ Instruction for the order to run them in is provided in bash file “./0_RUN_ALL
 
 ## Figures
 
-All figures of the paper are provided in pdf format under "./figures/". They are an output of Jupyter lab notebook “zenodo_g53_figures_tables.ipynb”. Figure 1 is produced directly from SAOimageDS9. You can use ds9's restore function to open the Fig.1 in paper configuration.
+All figures of the paper are provided in pdf format under "./figures/". They are an output of Jupyter lab notebooks:
+
+“./zenodo_g53_tables_figures.ipynb” 
+
+"./zenodo_g53_mcmc_figures.ipynb"
+
+Figure 1 is produced directly from SAOimageDS9. You can use ds9's restore function to open the Fig.1 in paper configuration.
