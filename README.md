@@ -11,7 +11,7 @@ Available on ArXiv: https://arxiv.org/abs/2105.02661
 ## Software
 
 - Operating system: Ubuntu 18.04.5 LTS (GNU/Linux 5.4.0-64-generic x86_64)
-- Software used in this work is publicly available at:
+- Software used in this work:
     - Anaconda / Python v3.7.4, including Astropy v3.2.2, NumPy v1.17.2, Matplotlib v3.3.1, SciPy v1.3.1, corner 2.2.1, pandas 0.25.1, jupyterlab v1.1.4
     - Heasoft 6.28, Xspec 12.11.1
     - XMM-Newton SAS release 18.0.0
